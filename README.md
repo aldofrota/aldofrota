@@ -1,5 +1,5 @@
-## 👋 Hi, i'm William
-#### Web developer
+## 👋 Hi, i'm Aldo
+#### Web developer Fullstack
 
 <div align="center"><br> 
   <a href="https://github.com/will-dantas">
