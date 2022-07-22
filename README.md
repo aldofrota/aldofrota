@@ -1,5 +1,6 @@
 ## 👋 Hi, i'm Aldo
 #### Web developer Fullstack
+#### Delphi developer
 
 <div align="center"><br> 
   <a href="https://github.com/will-dantas">
