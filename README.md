@@ -1,11 +1,11 @@
-<!-- ## 👋 Hi, i'm Aldo
-#### Web developer Fullstack -->
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/aldofrota/3ebe3a357d2fd8a1a0e73339f58dddd5/raw/508d80d07a936aeea7b60bf2c3e0ca9d4a443afa/gisthubcard.svg"/>
-<h1 align="left">Hi 👋🏻, I'm William Dantas</h1>
+<h1 align="left">Hi 👋🏻, I'm Aldo Frota</h1>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/aldofrota/3ebe3a357d2fd8a1a0e73339f58dddd5/raw/508d80d07a936aeea7b60bf2c3e0ca9d4a443afa/gisthubcard.svg"/> -->
+<div class="github-card" data-user="aldofrota"></div>
 
-- 👨‍💻 Software Developer FullStack Javascript 
 
-- 💬 Ask me about **JavaScript, React, React Native, Node.JS**
+- 👨‍💻 Software Developer FullStack TypeScript and .Net 
+
+- 💬 Ask me about **Typescript, React, Angular, Node.JS, C#, ASP.NET**
 
 - ℹ️ More at [linkedin](https://www.linkedin.com/in/aldofrota/)
 
@@ -30,7 +30,7 @@
 </a>
 </p>
 
-
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 <!-- <div align="center"><br> 
   <a href="https://github.com/will-dantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
