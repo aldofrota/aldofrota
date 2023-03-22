@@ -5,17 +5,7 @@
 
   ℹ️ More at [linkedin](https://www.linkedin.com/in/aldofrota/)
   
-  
-
-
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota">
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />   -->
-  
-
-  
-
-## Contact
+  ## Contact 
 
 <p align="botton">
   <a href="https://www.linkedin.com/in/aldofrota/" target="_blank">
@@ -26,8 +16,18 @@
   </a>
   <a href="https://www.instagram.com/aldofrota/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  </a>
 </p>
+  <br><br>
+
+
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />  
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota"/>
+  
+
 
 <!-- <div align="center"><br> 
   <a href="https://github.com/will-dantas">
