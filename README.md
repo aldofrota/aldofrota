@@ -7,18 +7,17 @@
   
   
 
-<div><br> 
+
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota">
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />   -->
   
-</div>
+
   
-<br><br><br>
 
 ## Contact
 
-<p>
+<p align="botton">
   <a href="https://www.linkedin.com/in/aldofrota/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
