@@ -21,11 +21,11 @@
   <br><br>
 
 
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />  
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota"/>
   
 
 
