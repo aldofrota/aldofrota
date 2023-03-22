@@ -1,36 +1,35 @@
 <h1 align="left">Hi 👋🏻, I'm Aldo Frota</h1>
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/aldofrota/3ebe3a357d2fd8a1a0e73339f58dddd5/raw/508d80d07a936aeea7b60bf2c3e0ca9d4a443afa/gisthubcard.svg"/> -->
-<div class="github-card" data-user="aldofrota"></div>
+  👨‍💻 Software Developer FullStack TypeScript and .Net
 
+  💬 Ask me about **Typescript, React, Angular, Node.JS, C#, ASP.NET
 
-- 👨‍💻 Software Developer FullStack TypeScript and .Net 
+  ℹ️ More at [linkedin](https://www.linkedin.com/in/aldofrota/)
+  
+  
 
-- 💬 Ask me about **Typescript, React, Angular, Node.JS, C#, ASP.NET**
-
-- ℹ️ More at [linkedin](https://www.linkedin.com/in/aldofrota/)
-
-<div align="left"><br> 
-  <a href="https://github.com/aldofrota">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldofrota&layout=compact&langs_count=7&theme=algolia"/>
+<div><br> 
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aldofrota&theme=dark" alt="aldofrota" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldofrota&show_icons=true&theme=dark&locale=en&layout=compact" alt="aldofrota"> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark&locale=en" alt="aldofrota" />  
+  
 </div>
-
+  
 <br><br><br>
 
 ## Contact
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aldofrota/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="mailto:aldofrotadev@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-<a href="https://www.instagram.com/aldofrota/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=instagram" alt="instagram"/>
+<p>
+  <a href="https://www.linkedin.com/in/aldofrota/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto:aldofrotadev@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=gmail" alt="gmail"/>
+  </a>
+  <a href="https://www.instagram.com/aldofrota/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-aldofrota-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 <!-- <div align="center"><br> 
   <a href="https://github.com/will-dantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
