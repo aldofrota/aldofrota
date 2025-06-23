@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=aldofrota&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Engenheiro de software na RDStation.
-- 🌱 Aprendendo mais sobre GO e Ruby.
+- 🤔 Exploring new technologies and developing software solutions.
+- 💼 Working as a Software Engineer at RDStation.
+- 🌱 Currently learning more about GO and Ruby.
 
-## Minhas Skills
+## Skills
 
-**Aplicações e dados**
+**Applications & Data**
 
 ![GO](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -38,11 +38,11 @@
 
 <br/>
 
-<a href="https://github.com/aldofrota" title="Perfil do Aldo">
+<a href="https://github.com/aldofrota" title="Aldo's profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldofrota&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-aldofrota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/aldofrota)
 [![Gmail Badge](https://img.shields.io/badge/-aldofrotadev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aldofrotadev@gmail.com)](mailto:aldofrotadev@gmail.com)
@@ -53,7 +53,7 @@
 <p align="center">
   <a
     href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
+    title="trophy repository"
   >
     <img
       width="800"
