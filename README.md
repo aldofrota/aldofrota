@@ -50,16 +50,6 @@
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="trophy repository"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=aldofrota&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=aldofrota&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
