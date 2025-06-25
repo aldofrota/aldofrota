@@ -36,11 +36,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![AmazonWebServices](https://img.shields.io/badge/-AmazonWebServices-333333?style=flat&logo=amazonwebservices)
 
-<br/>
-
-<a href="https://github.com/aldofrota" title="Aldo's profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldofrota&theme=dracula&show_icons=true" />
-</a>
+[![Aldo's profile](https://github-readme-stats.vercel.app/api?username=aldofrota&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/aldofrota)
 
 ## Where to Find Me
 
